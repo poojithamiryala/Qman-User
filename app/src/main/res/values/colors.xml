@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+
+    <color name="turquoise_medium">#FF4ECDC4</color>
+    <color name="golden_tainoi">#FFFFBD55</color>
+    <color name="crusta">#FFFB8A61</color>
+    <color name="blue">#FF20A7C7</color>
+    <color name="pink">#ff4050</color>
+    <color name="orange">#fa8043</color>
+    <color name="lorange">#ff7f54</color>
+    <color name="llorange">#f99d70</color>
+</resources>
