@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.android\build-cache\a5c1bf34984d119c8f6f05ee1d582308ace98278\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\classes_2c18ce8140a94e79e4ccf740e40fc8626aec84ae.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\8dcd87c7521655784ecd46b5d3f1984388f05048\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d8dc034df51234f400167ae73b4613e1857c892\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\User\app\libs\azure-mobile-android-3.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9265d17ac48b1570d6551e0032403dc4d61d6b18">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\2\azure-mobile-android-3.4.0_22a6fc512276ae98f3106ee08b999ceaec1dbdac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\a5c1bf34984d119c8f6f05ee1d582308ace98278\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c18ce8140a94e79e4ccf740e40fc8626aec84ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\2003267f309127f133a70c8d0f88a6b058b2c56d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af19a175bb7470e4fd56d8e0c2eb7d9b063df9bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_0164d322beec9af3a66ad9aceb9c939a4bec3e76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.3.1\4d53b7d6983247af02b8fe7e4228fff555a5e828\firebase-client-jvm-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.3.1_ceb9fdc96e3e43e1ed4a720d93dcd89aa0704749.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\62a9ec1ab8b70ee7f088936fd7a562977414dffa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="379d82421869db3cb230000f6053f1a52839ff11">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_522d5432f3d4c3612cd9e73c735729c033a725cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\243fecee59edee87cd34797e4c27b712df4cc191\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a31b27cec23801ea46b3075c0b59f83475aabf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\76c6bcbb099570f0b3eb0b7018dc7a337c0782ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2fea0e7fe7096bbae70556045c3543fba26fee4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations-java5\15.0\7011b4551a8451906759b05814c58b9eb829ea9b\annotations-java5-15.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-java5-15.0_4af441351b556efe49b1b2d816c54525676f48b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\f1e722ef534d5c8790ab08ca43af3668dda9bf90\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f50f14dc153d60b5daf98c98be58c590327e2152\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.android\build-cache\2c1be80bc27d48afc415f7aa7d28d8096b01550b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\classes_2bc67d4feecb2e617ec04931b350a111c49772b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.3.1\be29b24233711c419ce935aa0a1b12ebc49d1c9a\firebase-client-android-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.3.1_0a598304bf3c00bc8a61d5951617d18864646eab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.android\build-cache\931d349728dd71c1bb3c3b60598931ed5546c821\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\classes_5cf96c17915c9c0a22e146746b92fbe4f15e0644.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.android\build-cache\16eb431f53eb48aa732ac1aec5c46c66e42c8a32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\classes_a72f1bf412fcf4b2f41188a4cefcef62a5ce34c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.android\build-cache\f1e722ef534d5c8790ab08ca43af3668dda9bf90\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\classes_f50f14dc153d60b5daf98c98be58c590327e2152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations-java5\15.0\7011b4551a8451906759b05814c58b9eb829ea9b\annotations-java5-15.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\annotations-java5-15.0_4af441351b556efe49b1b2d816c54525676f48b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_d6c8158e9eeb3bdce7dee3afe707a3a53f15b2b5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\16eb431f53eb48aa732ac1aec5c46c66e42c8a32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a72f1bf412fcf4b2f41188a4cefcef62a5ce34c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\eb4b679d511f1f7df57e5ac7af79fc853f6e4762\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d88d2f677c2fab04fcec9e840d4e2df506b9cb55\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\tubesock-0.0.11_77fc043ea5c5779876ad414a6283157575475bb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.android\build-cache\5c7219d4574cd9ee4e0f42ec98d5922bfc8a304c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\classes_5823e1f8f78513a8e63d0aa983f22f8aec7a9129.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\64a4ca226b1fe0e02ca9057bce1238902fbd709f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c5deeff68a98b3e19a38946cb34655c3e3a8dc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\d337861badd1d3933670f460006be0f7e9cf56c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb02372fb1d885e032c9fa9c589f2a267d9d05a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\7d1c434cbe68276f8f3dd107476e5792d149c31a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_795835417842ea6eb176fc8407582b99930f0ef8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.android\build-cache\d337861badd1d3933670f460006be0f7e9cf56c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\classes_eb02372fb1d885e032c9fa9c589f2a267d9d05a9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3_6f3e3661ed683621b308de5f3257dfffaf569e13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\263095a9ae1e0a0cf3ac073994a5648ec1cf3291\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9a7b9b3e84fc128845528609b066376954a33d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\194a0f6936f3247883b2b7633dcad5f0405740b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bad2f1129c283e1f7f577391de24baa629853213\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha7_7d7f2552077e5376cec958beb9952bcd7f1d9ac2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.android\build-cache\dbc1bab1c2dd36536c45be0049b7dc085ad0d6fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\classes_8ac5a0db4b181341004378b712b769cc6ee788c7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\305bc9b94ce04885846c9186e21a0f8a5fd0fa2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0cdc381296af546c9e6ffa811fc601f6ad631c6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\e1ce5a882cfb32639b7150164c1f546749af520e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dbfaa66636f1fadb6cff4080a3a271e97f288340">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ee60a1e7824c052a83a19540d23ae11050a6297\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\e9cd3d6fc7a0da10013cc6d5df60b82e86c09384\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_571f96f594a22daa6a19a084d5d4d20fd6a33ca8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.android\build-cache\305bc9b94ce04885846c9186e21a0f8a5fd0fa2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\classes_0cdc381296af546c9e6ffa811fc601f6ad631c6e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio1\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_ff6253b174b00639644f6a188fbbc875e1f0ce4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_42daf76c20566b629a50e1ebf962136b357559de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.android\build-cache\e1ce5a882cfb32639b7150164c1f546749af520e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dbfaa66636f1fadb6cff4080a3a271e97f288340">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\classes_1ee60a1e7824c052a83a19540d23ae11050a6297.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\User\app\libs\azure-mobile-android-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9265d17ac48b1570d6551e0032403dc4d61d6b18">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\2\azure-mobile-android-3.4.0_22a6fc512276ae98f3106ee08b999ceaec1dbdac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_79d6c6024fcf26305749c325f4e3c8d83ef0c669\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_5b63e03d9096b8fa99938e3d8ea40159c4a33fc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\User\app\libs\azure-mobile-android-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9265d17ac48b1570d6551e0032403dc4d61d6b18">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\azure-mobile-android-3.4.0_22a6fc512276ae98f3106ee08b999ceaec1dbdac.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\dc4bc0707698a9d8e9493c095afd8170895cb74d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_62711eb2ea4af7a78bd2f0e54e1295a6da94ca3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.android\build-cache\0d521edabcaaad3a403836e808cfdd8133580ed6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\classes_caa1db0c77ee17059f18dd8779d990fcc52b71fe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\6662bdbb245408f2ddc1614962b4fb343680e7ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3590459148b495809c2a6f2ed6f7b37d0ec3544a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\ba9dba10731508d8dbe5337aa92319ff6bf32ddb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6120bbda9b165aa6048585a9f9904289d09300a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.android\build-cache\c2a05adf5b9096085309b5192a29f7d562c7aecd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\classes_adcbdded79565942d3237519a715d184f2658781.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\c2a05adf5b9096085309b5192a29f7d562c7aecd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_adcbdded79565942d3237519a715d184f2658781\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.android\build-cache\dc91af1768db76825c06eda8130bd3b904681f10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a7f6364886d356550ae62b5d4354c725ef54e26\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.android\build-cache\ac1dac356bc23c47dfd8563393df7b1f5dc40ad7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\classes_b2151aa78f344d72bad1e68ab038cf7bad1d8202.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\poojitha miryala\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\User\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_78852568b22fc0d05adee84cb07eb1d1d82c0462\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\poojitha miryala\.android\build-cache\eb4b679d511f1f7df57e5ac7af79fc853f6e4762\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="E:\User\app\build\intermediates\pre-dexed\debug\classes_d88d2f677c2fab04fcec9e840d4e2df506b9cb55.jar" />
+    </item>
+
+</items>
